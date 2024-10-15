@@ -1,0 +1,118 @@
+.carousel-item{
+    height: 800px;
+}
+
+
+
+
+
+.card{
+    border: none !important;
+text-align: center;
+img{
+    width: 65%;
+    text-align: center;
+    align-items: center;
+    margin-left: 49px;
+}
+
+}
+.main{
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+
+}
+
+.txt{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.btn{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+ 
+.s-main{
+    height: 550px;
+    object-fit: contain !important;
+}
+
+span{
+    color:rgb(24, 187, 24);
+
+}
+
+.btns{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+width: 457px;
+}
+.boshi{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.boshi1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.images{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.bg img{
+    width: 100%;
+}
+
+.wrapper{
+    img{
+        width: 250px;
+    }
+}
+
+
+footer{
+    width: 100%;
+    height: max-content;
+    border: 1px solid #E4E4E4
+
+}
+
+.f-main{
+    padding: 60px 0;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 50px;
+
+    p{
+        color: #067A46;
+    }
+}
+
+.f_last{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    a{
+        text-decoration: none;
+  color:  #067A46;
+  
+    }
+}
+.f-left{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
